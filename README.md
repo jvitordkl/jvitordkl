@@ -10,7 +10,7 @@
 My name is João Vitor, I am 19 years old, a student at IFRO, and I am originally from Rondônia, Brazil. Currently, I don't know which area I intend to pursue in software development, but I have a great appreciation for programming logic and data analysis.
 
 <div align="center">
-  <a href="https://github.com/Joao-Vitor-Alvernaz">
+  <a href="https://github.com/jvitordkl">
     <img 
     title="MY GITHUB"
     src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
@@ -20,7 +20,7 @@ My name is João Vitor, I am 19 years old, a student at IFRO, and I am originall
     title = "MY INSTAGRAM"
     src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="jvitordkl@gmail.com">
+  <a href="mailto:jvitordkl@gmail.com">
     <img 
     title = "MY GMAIL"
     src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
