@@ -7,7 +7,7 @@
 
 **`Academic in Systems Analysis and Development`**
 
-My name is João Vitor, I am 19 years old, a student at IFRO, and I am originally from Rondônia, Brazil. Currently, I don't know which area I intend to pursue in software development, but I have a great appreciation for programming logic and data analysis.
+My name is João Vitor, I am 20 years old, a student at IFRO, and I am originally from Rondônia, Brazil. Currently, I don't know which area I intend to pursue in software development, but I have a great appreciation for programming logic and data analysis.
 
 <div align="center">
   <a href="https://github.com/jvitordkl">
